@@ -186,9 +186,9 @@ span{
 
 @keyframes lettersAnimation {
     50%{
-        transform: translateY(-15px) rotateX(0deg);
+        transform: translateY(-15px) rotateX(-0.15deg);
     }
     0%, 100%{
-        transform: translateY(0px) rotateX(50deg);
+        transform: translateY(0px) rotateX(0.12deg);
     }
 }
